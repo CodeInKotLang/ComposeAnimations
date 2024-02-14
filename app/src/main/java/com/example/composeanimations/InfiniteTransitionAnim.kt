@@ -48,25 +48,25 @@ fun InfiniteTransitionAnim() {
 }
 
 /*
-MainActivity Code
-          var isVisible by remember { mutableStateOf(false) }
-                Box(
-                    modifier = Modifier.fillMaxSize()
-                ) {
-                    if (isVisible) {
-                        PulseLoadingAnim(
-                            modifier = Modifier.align(Alignment.Center),
-                            icon = Icons.Default.Call
-                        )
-                    }
-                    Button(
-                        modifier = Modifier.align(Alignment.BottomCenter),
-                        onClick = { isVisible = !isVisible }
-                    ) {
-                        Text(text = "Click Here")
-                    }
-                }
- */
+********* MainActivity Code *************
+var isVisible by remember { mutableStateOf(false) }
+Box(
+modifier = Modifier.fillMaxSize()
+) {
+    if (isVisible) {
+        PulseLoadingAnim(
+            modifier = Modifier.align(Alignment.Center),
+            icon = Icons.Default.Call
+        )
+    }
+    Button(
+        modifier = Modifier.align(Alignment.BottomCenter),
+        onClick = { isVisible = !isVisible }
+    ) {
+        Text(text = "Click Here")
+    }
+}
+*/
 
 @Composable
 fun PulseLoadingAnim(
