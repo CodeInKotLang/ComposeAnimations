@@ -14,3 +14,7 @@ From basic animations to more advanced techniques, each video provides practical
 ## Usage
 
 Feel free to clone or fork this repository to explore the code samples provided in each tutorial video. You can also contribute by submitting pull requests or opening issues to suggest improvements or report bugs.
+
+## Support
+
+If you find the content valuable, consider [buying me a coffee](https://ko-fi.com/mohammadarif) to support the creation of more content.
