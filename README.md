@@ -9,8 +9,7 @@ From basic animations to more advanced techniques, each video provides practical
 
 🎥 [Exploring Animations in Jetpack Compose](https://www.youtube.com/playlist?list=PL1b73-6UjePBj4063fFyyT0SC1VV7hQq2)
 
-![YouTube Thumbnail](https://github.com/CodeInKotLang/ComposeAnimations/assets/110901093/079fda6a-cbaf-4ead-b654-a6d9e086b8fd)
-
+![Screenshot (160)](https://github.com/CodeInKotLang/ComposeAnimations/assets/110901093/da72cee5-380d-44a2-91c8-90fc0eae9af7)
 
 ## Usage
 
